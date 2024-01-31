@@ -1,0 +1,33 @@
+// Body
+$body-bg: #f8fafc;
+
+
+body {
+
+ 	  padding-top: 70px; 
+      padding-bottom: 70px; 
+}
+html {
+    font-size: 17px; /* Change to your desired base font size */
+}
+
+
+$primary: #105689;
+$danger: #ff4136;
+
+
+#postbuttom{
+      padding-bottom: 200x;
+}
+
+
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+
+ .image-upload label span:hover {
+        cursor: pointer; /* Change cursor style on hover */
+    }
